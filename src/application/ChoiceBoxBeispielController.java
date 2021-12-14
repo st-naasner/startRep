@@ -26,6 +26,9 @@ public class ChoiceBoxBeispielController
 
     @FXML
     private Button btBeispielauswählen;
+    @FXML
+    private TextField tfZusatz;
+
 
     @FXML
     private ChoiceBox<Beispiel> cbBeispiel;
