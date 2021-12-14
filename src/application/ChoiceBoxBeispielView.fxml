@@ -19,6 +19,6 @@
       <ChoiceBox fx:id="cbBeispiel" layoutX="25.0" layoutY="55.0" prefWidth="150.0" />
       <TextField fx:id="tfZahl" layoutX="264.0" layoutY="55.0" />
       <TextField fx:id="tfString" layoutX="264.0" layoutY="88.0" />
-      <TextField fx:id="tfZusatz" layoutX="130.0" layoutY="20.0" />
+      
    </children>
 </AnchorPane>
