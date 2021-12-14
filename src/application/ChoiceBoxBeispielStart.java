@@ -20,7 +20,7 @@ public class ChoiceBoxBeispielStart extends Application {
 	public void start(Stage pPrimaryStage) throws IOException
 	{
 		this.grundStage = pPrimaryStage;
-		grundStage.setTitle("keine Statistik");
+		grundStage.setTitle("meinWert");
         FXMLLoader lLoader = new FXMLLoader();
         lLoader.setLocation(ChoiceBoxBeispielStart.class.getResource("ChoiceBoxBeispielView.fxml"));
         grundPane = lLoader.load();
